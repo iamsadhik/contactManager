@@ -11,6 +11,15 @@
 
 ( https://sadhik-contact-manager-app.netlify.app/ )
 
+1)the app is hosted on netlify and is running fine.
+2)If new user click on SignUp and register.
+3)After SignUp, login using the credentials you have used during Signup.
+4)Add new Contacts by clicking on Add Contact button and provide the details.
+5)Below is the credentials for demo account.
+
+username:zoho
+password:password@123
+
 ## front end and backend links
 
 ## codesandBox link.
