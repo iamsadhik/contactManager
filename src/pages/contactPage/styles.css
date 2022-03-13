@@ -1,0 +1,22 @@
+.contactDetails {
+  border: 1px solid black;
+  max-width: 400px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.add {
+  border: 1px solid grey;
+  border-radius: 100px;
+  color: white;
+  background-color: blue;
+  padding: 6px;
+}
+.add:hover {
+  cursor: pointer;
+}
+.labels {
+  display: flex;
+  padding: 10px;
+  /* flex-direction: column; */
+}

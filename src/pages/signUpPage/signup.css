@@ -1,0 +1,38 @@
+.signupBox {
+  border: 1px solid black;
+  display: inline-block;
+  padding: 30px;
+  margin: 5px;
+  background-color: whitesmoke;
+}
+.label {
+  font-weight: bold;
+  display: flex;
+}
+.input {
+  display: flex;
+  flex-direction: column;
+  padding: 4px;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
+.registerForm {
+  padding: 7px;
+}
+.signupBox > button {
+  padding: 6px;
+  border-radius: 8px;
+  border: 1px solid black;
+}
+.signupBox > button:hover {
+  cursor: pointer;
+}
+.signIn {
+  font-size: 15px;
+}
+.signIn > span {
+  color: blue;
+}
+.signIn > span:hover {
+  cursor: pointer;
+}

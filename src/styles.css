@@ -1,0 +1,8 @@
+@import url("http://font-awesome-4.6.3/css/font-awesome.min.css");
+body {
+  background-color: whitesmoke;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
