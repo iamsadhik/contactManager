@@ -9,7 +9,7 @@
 
 ### netlify deployed link (main app running).
 
-( https://sadhik-contact-manager-app.netlify.app/login )
+( https://sadhik-contact-manager-app.netlify.app/ )
 
 ## front end and backend links
 
