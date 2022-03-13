@@ -20,7 +20,8 @@ export const Routepath = () => {
           textDecoration: "none",
           padding: "7px",
           color: "#404040",
-          fontWeight: "bold"
+          fontWeight: "bold",
+          margin: "0 20px"
         }}
       >
         your Contact <FontAwesomeIcon icon={faAddressBook} />
@@ -32,7 +33,8 @@ export const Routepath = () => {
           textDecoration: "none",
           padding: "7px",
           color: "#404040",
-          fontWeight: "bold"
+          fontWeight: "bold",
+          margin: "0 20px"
         }}
       >
         Login
@@ -44,14 +46,15 @@ export const Routepath = () => {
           textDecoration: "none",
           padding: "5px",
           color: "#404040",
-          fontWeight: "bold"
+          fontWeight: "bold",
+          margin: "0 20px"
         }}
       >
         Signup
       </NavLink>
 
       <Routes>
-        <Route path="/" element={Home} />
+        <Route path="/" element={<Home />} />
         <Route path="/contacts" element={<ContactManager />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
